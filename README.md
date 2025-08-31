@@ -12,9 +12,6 @@
 <a href="https://t.me/Nir_33">
   <img width="35px" alt="Telegram" title="Telegram" src="https://img.icons8.com/color/48/telegram-app--v1.png"/>
 </a>
-<a href="mailto:daniil.efimow@mail.ru">
-  <img width="35px" alt="Mail.ru" title="Mail.ru" src="https://cdn.simpleicons.org/maildotru/0072C6"/>
-</a>
 
 
 ---
